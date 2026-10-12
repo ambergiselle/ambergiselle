@@ -16,12 +16,6 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ambergiselle/ambergiselle/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ambergiselle/ambergiselle/output/pacman-contribution-graph.svg" />
-  <img alt="pacman eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ambergiselle/ambergiselle/output/pacman-contribution-graph.svg" width="100%"/>
-</picture>
-
 </div>
 
 <br/>
@@ -141,7 +135,11 @@ I'm **Amber**, a final-year **AI Engineering** student at Xiamen University Mala
 
 <img src="https://streak-stats.demolab.com/?user=ambergiselle&hide_border=true&background=0D0014&ring=FF2EC4&fire=B026FF&currStreakLabel=FF2EC4&sideLabels=E0AAFF&dates=E0AAFF&currStreakNum=F5F3FF&sideNums=F5F3FF" width="70%"/>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ambergiselle/ambergiselle/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ambergiselle/ambergiselle/output/pacman-contribution-graph.svg" />
+  <img alt="pacman eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ambergiselle/ambergiselle/output/pacman-contribution-graph.svg" width="100%"/>
+</picture>
 
 </div>
 
