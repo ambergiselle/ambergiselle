@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ambergiselle/ambergiselle/main/profile-hero.svg" width="100%" alt="Amber Chee" />
+<img src="https://raw.githubusercontent.com/ambergiselle/ambergiselle/main/assets/profile-hero.svg" width="100%" alt="Amber Chee" />
 
 <br/>
 
@@ -64,18 +64,18 @@ I'm **Amber**, a final-year **AI Engineering** student at Xiamen University Mala
 </tr>
 <tr>
 <td valign="top">🎭 <a href="https://github.com/ambergiselle/Multimodal-Emotion-Recognition-via-Temporally-Regularized-CRNN"><b>Multimodal Emotion Recognition</b></a></td>
-<td valign="top">A Flask app classifying emotion from text or speech into 7 classes. Led the speech branch: a temporally-regularized CRNN reaching <b>92.30%</b> test accuracy (vs. 89.85% baseline).</td>
-<td valign="top"><code>PyTorch</code> <code>Librosa</code> <code>Flask</code> <code>CRNN</code></td>
+<td valign="top">Engineered a novel temporal regularization term added to the cross-entropy loss to penalize high-variance frame-to-frame predictions, stabilizing temporal dynamics and outperforming the CNN+LSTM baseline with <b>92.30%</b> test accuracy (vs. 89.85% baseline).</td>
+<td valign="top"><code>PyTorch</code> <code>CNN</code> <code>LSTM</code></td>
 </tr>
 <tr>
 <td valign="top">🌧️ <a href="https://github.com/deettoh/disaster-readiness"><b>Community Disaster Readiness Platform</b></a></td>
 <td valign="top">Hyperlocal disaster readiness web app for Malaysia, built for BorNEO HackWknd. Community hazard photo reports are classified (flood / fire / landslide), privacy-redacted, and fed into neighbourhood readiness scores, real-time alerts, and evacuation routes that reroute around hazards.</td>
-<td valign="top"><code>FastAPI</code> <code>React</code> <code>MapLibre</code> <code>PostGIS</code> <code>pgRouting</code> <code>Supabase</code> <code>EfficientNet-B0</code> <code>YOLOv8</code> <code>RetinaFace</code> <code>XGBoost</code> <code>Docker</code></td>
+<td valign="top"><code>EfficientNet-B0</code> <code>YOLOv8</code> <code>RetinaFace</code> <code>XGBoost</code> <code>FastAPI</code> <code>React</code> <code>MapLibre</code> <code>PostGIS</code> <code>Supabase</code> </td>
 </tr>
 <tr>
 <td valign="top">🎒 <a href="https://github.com/fakedpotato1/carry-on"><b>Carry On</b></a></td>
 <td valign="top">A prototype for planning group assignments: an interactive project canvas for splitting work, reviewing contribution evidence, and confirming fair workload changes, with rubric evaluation and lecturer email drafts.</td>
-<td valign="top"><code>React</code> <code>Vite</code> <code>JavaScript</code> <code>Playwright</code></td>
+<td valign="top"><code>React</code> <code>JavaScript</code> <code>TailwindCSS</code></td>
 </tr>
 </table>
 
@@ -141,16 +141,9 @@ I'm **Amber**, a final-year **AI Engineering** student at Xiamen University Mala
 
 <img src="https://streak-stats.demolab.com/?user=ambergiselle&hide_border=true&background=0D0014&ring=FF2EC4&fire=B026FF&currStreakLabel=FF2EC4&sideLabels=E0AAFF&dates=E0AAFF&currStreakNum=F5F3FF&sideNums=F5F3FF" width="70%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ambergiselle&theme=radical&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
+
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ambergiselle&color=B026FF&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2EC4,55:9D00FF,100:1A0033&height=120" width="100%"/>
-
-</div>
