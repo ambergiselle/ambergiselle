@@ -67,6 +67,11 @@ I'm **Amber**, a final-year **AI Engineering** student at Xiamen University Mala
 <td valign="top"><code>EfficientNet-B0</code> <code>YOLOv8</code> <code>RetinaFace</code> <code>XGBoost</code> <code>FastAPI</code> <code>React</code> <code>MapLibre</code> <code>PostGIS</code> <code>Supabase</code> </td>
 </tr>
 <tr>
+<td valign="top">👜 <b>AI Finance Copilot for Malaysian SMEs</b><br/><sub>Repo coming soon</sub></td>
+<td valign="top">An AI assistant that lets small business owners ask questions about their invoices and sales in plain English, and answers e-invoicing questions using official LHDN guidelines.</td>
+<td valign="top"><code>LangChain</code> <code>FastAPI</code> <code>Supabase</code> <code>PostgreSQL</code> <code>pgvector</code> </td>
+</tr>
+<tr>
 <td valign="top">🎒 <a href="https://github.com/fakedpotato1/carry-on"><b>Carry On</b></a></td>
 <td valign="top">A prototype for planning group assignments: an interactive project canvas for splitting work, reviewing contribution evidence, and confirming fair workload changes, with rubric evaluation and lecturer email drafts.</td>
 <td valign="top"><code>React</code> <code>JavaScript</code> <code>TailwindCSS</code></td>
