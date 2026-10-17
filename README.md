@@ -5,12 +5,11 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/amber-cheehs">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Amber%20Chee-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
 </a>
 <a href="mailto:amberchee2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
 </a>
-<img src="https://img.shields.io/badge/Petaling%20Jaya%2C%20Malaysia-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
@@ -106,6 +105,7 @@ I'm **Amber**, a final-year **AI Engineering** student at Xiamen University Mala
 <img src="https://img.shields.io/badge/YOLO%20(Ultralytics)-0B2A3D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/vLLM-3776AB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Unity%20ML--Agents-000000?style=for-the-badge&logo=unity&logoColor=white" />
