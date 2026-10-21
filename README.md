@@ -21,7 +21,7 @@
 
 ## ⟡ About Me
 
-I'm **Amber**, a final-year **AI Engineering** student at Xiamen University Malaysia, researching GraphRAG and LLM-based retrieval for Biomedical QA, with a broader pull toward machine learning systems that reason instead of just predict. Outside of research, I’ve led the SDC Hackathon 2026 and University Orientation Organizing Teams, and competed in 2 Hackathons myself. 
+I'm **Amber**, a final-year **AI Engineering** student at Xiamen University Malaysia, researching GraphRAG and LLM-based retrieval for Biomedical QA, with a broader pull toward machine learning systems that reason instead of just predict. Outside of research, I’ve led the SDC Hackathon 2026 and University Orientation Organizing Teams, and competed in 2 global hackathons.
 
 <br/>
 
@@ -62,8 +62,8 @@ I'm **Amber**, a final-year **AI Engineering** student at Xiamen University Mala
 </tr>
 <tr>
 <td valign="top">👜 <a href="https://github.com/ambergiselle/AI-Finance-Copilot-for-Malaysian-SMEs"> <b>AI Finance Copilot for Malaysian SMEs</b><br/></td>
-<td valign="top">An AI assistant that lets small business owners ask questions about their invoices and sales in plain English, and answers e-invoicing questions using official LHDN guidelines.</td>
-<td valign="top"><code>LangChain</code> <code>FastAPI</code> <code>Supabase</code> <code>PostgreSQL</code> <code>pgvector</code> </td>
+<td valign="top">Full stack, multi-tenant AI assistant for small businesses: <b>RAG</b> with page citations over official LHDN e-invoicing guidelines, a <b>text-to-SQL agent</b> with query guardrails and self-correction, and <b>LLM extraction</b> of invoice PDFs with human review. Tenant data isolated with Row Level Security.</td>
+<td valign="top"><code>LangChain</code> <code>FastAPI</code> <code>Supabase</code> <code>PostgreSQL</code> <code>pgvector</code><code>Groq</code><code>Streamlit</code><code>Docker</code> </td>
 </tr>
 <tr>
 <td valign="top">🌧️ <a href="https://github.com/deettoh/disaster-readiness"><b>Hyperlocal Disaster Readiness with Community Sensing Platform</b></a></td>
@@ -110,12 +110,15 @@ I'm **Amber**, a final-year **AI Engineering** student at Xiamen University Mala
 <img src="https://img.shields.io/badge/vLLM-3776AB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Unity%20ML--Agents-000000?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/Gymnasium-2F2F2F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge" />
+
 
 **Knowledge Graphs & Retrieval**
 <br/>
 <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
 <img src="https://img.shields.io/badge/MedCPT-555555?style=for-the-badge" />
 <img src="https://img.shields.io/badge/BM25-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 **Data & Backend**
 <br/>
@@ -126,6 +129,9 @@ I'm **Amber**, a final-year **AI Engineering** student at Xiamen University Mala
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 
 </div>
 
